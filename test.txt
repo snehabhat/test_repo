@@ -1,5 +1,8 @@
 1. this is a test git repo
+<<<<<<< HEAD
 2. second commit
 3. third commit
 4. fourth commit
 5. fifth commit
+=======
+>>>>>>> parent of 4dca025... Second commit
